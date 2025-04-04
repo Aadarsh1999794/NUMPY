@@ -1,1 +1,1 @@
-This report is just to learn numpy.
+This repo is just to learn numpy.
